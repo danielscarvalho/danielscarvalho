@@ -4,6 +4,13 @@ I'm Daniel Carvalho, and I'm MSc in Computer Engineering work at [Wolfram](www.w
 and teach Data Science at [Insper](www.insper.com.br) and programming at [Termomecanica](http://ftt.com.br). 
 I'm from Brazil, São Paulo.
 
+Certifications:
+- Java
+- Wolfram
+- Cambridge (English)
+- GitHub
+- CDCP (Data Center)
+
 Some live coding at [videos](https://www.youtube.com/channel/UCrDTgnnQA7bh-Ns1VRfShxg) 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/danielscarvalho?style=social)](https://twitter.com/danielscarvalho)
