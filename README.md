@@ -14,13 +14,12 @@ Certifications:
 - GitHub
 - CDCP (Data Center)
 
-Some live coding [videos](https://www.youtube.com/channel/UCrDTgnnQA7bh-Ns1VRfShxg) - I do not edit videos, just upload as is.
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/danielscarvalho?style=social)](https://twitter.com/danielscarvalho)
 
 [![Linkedin: danielscarvalho](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielscarvalho/)](https://www.linkedin.com/in/danielscarvalho/)
 
-[![Youtube: DanielCarvalhoEng](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/DanielCarvalhoEng)](https://www.youtube.com/c/DanielCarvalhoEng)
+[![Youtube: DanielCarvalhoEng](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/DanielCarvalhoEng)](https://www.youtube.com/c/DanielCarvalhoEng) - Some live coding [videos](https://www.youtube.com/channel/UCrDTgnnQA7bh-Ns1VRfShxg) - I do not edit videos, just upload as is.
+
 
 ## ⚡ Technologies
 
