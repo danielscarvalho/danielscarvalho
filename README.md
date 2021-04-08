@@ -5,7 +5,7 @@ and teach Data Science at [Insper](www.insper.com.br) and programming at [Termom
 
 I love teaching programming for those who want to follow a career in IT.
 
-I'm from Brazil, São Paulo. I'm from Brazil, São Paulo. I am a husband and father, I love to play LEGO and video games with my girls!
+I'm from Brazil, São Paulo. I'm from Brazil, São Paulo, speak Portuguese, English and Spanish. I am a husband and father, I love to play LEGO and video games with my girls!
 
 Certifications:
 - Java
