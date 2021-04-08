@@ -57,7 +57,8 @@ These are some of the technologies and tools that I work with:
 
 I like to do reserch in pure computer science, complex systems, artificial intelligence and data science, and publish some papers...
 
-<script crossorigin src="https://www.wolframcdn.com/notebook-embedder/0.1/wolfram-notebook-embedder.js"></script>
+<script crossorigin src="https://www.wolframcdn.com/notebook-embedder/0.1/wolfram-notebook-embedder.js">
+</script>
 		<div id="f4ed2903-6a14-4d86-ae12-4604f29b6188-38898-7652"></div>
 		<script>
 			WolframNotebookEmbedder.embed(
