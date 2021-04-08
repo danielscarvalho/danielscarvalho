@@ -59,7 +59,7 @@ I like to do reserch in pure computer science, complex systems, artificial intel
 
 - [Wolfram Summer School 2007](https://education.wolfram.com/summer-school/alumni/2007/carvalho/)
 - [Wolfram Summer School 2011](https://education.wolfram.com/summer-school/alumni/2011/carvalho/)
-- [Wolfram Function Repository](https://resources.wolframcloud.com/FunctionRepository/search/?i=carvalho) - My Wolfram Langauge bublished functions
+- [Wolfram Function Repository](https://resources.wolframcloud.com/FunctionRepository/search/?i=carvalho) - My Wolfram Language bublished functions
 - [Wolfram Demonstrations Project](https://demonstrations.wolfram.com/search.html?query=carvalho)
 - [Wolfram Certified Instructor](https://www.wolfram.com/wolfram-u/instructors/carvalho.html)
 - [Wolfram Tech Conference Brazil](https://www.wolfram.com/events/virtual-conference-br/2020/) - Organizing Wolfram conf in Brazil since 2013.
