@@ -56,6 +56,6 @@ I like to do reserch in pure computer science, complex systems, artificial intel
 - [Wolfram Function Repository](https://resources.wolframcloud.com/FunctionRepository/search/?i=carvalho) - My Wolfram Langauge bublished functions
 - [Wolfram Demonstrations Project](https://demonstrations.wolfram.com/search.html?query=carvalho)
 - [Wolfram Certified Instructor](https://www.wolfram.com/wolfram-u/instructors/carvalho.html)
-- [Wolfram Tech Conference Brazil](https://www.wolfram.com/events/virtual-conference-br/2020/) - Organizing Wolfram conf in Brazil since 2003.
+- [Wolfram Tech Conference Brazil](https://www.wolfram.com/events/virtual-conference-br/2020/) - Organizing Wolfram conf in Brazil since 2013.
 
 I like to hack things too and do some electronics as a hobby.
