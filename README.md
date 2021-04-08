@@ -57,16 +57,8 @@ These are some of the technologies and tools that I work with:
 
 I like to do reserch in pure computer science, complex systems, artificial intelligence and data science, and publish some papers...
 
-<script crossorigin src="https://www.wolframcdn.com/notebook-embedder/0.1/wolfram-notebook-embedder.js">
-</script>
-<div id="f4ed2903-6a14-4d86-ae12-4604f29b6188-38898-7652">
-</div>
-<script>
-			WolframNotebookEmbedder.embed(
-				"https://www.wolframcloud.com/obj/demonstrations/Published/ClusterCellularAutomata",
-				document.getElementById("f4ed2903-6a14-4d86-ae12-4604f29b6188-38898-7652"), {allowInteract: true}
-			);
-</script>
+<iframe scrolling="no" frameborder="0" src="https://www.wolframcloud.com/obj/demonstrations/Published/ClusterCellularAutomata?_view=EMBED" style="border:0;">
+</iframe>
 
 - [Wolfram Summer School 2007](https://education.wolfram.com/summer-school/alumni/2007/carvalho/)
 - [Wolfram Summer School 2011](https://education.wolfram.com/summer-school/alumni/2011/carvalho/)
