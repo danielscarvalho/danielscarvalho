@@ -1,7 +1,10 @@
 ### Hello!
 
 I'm Daniel Carvalho, and I'm MSc in Computer Engineering work at [Wolfram](www.wolfram.com) and [Advisor](https://www.advisor.net.br), 
-and teach Data Science at [Insper](www.insper.com.br) and programming at [Termomecanica](http://ftt.com.br). 
+and teach Data Science at [Insper](www.insper.com.br) and programming at [Termomecanica](http://ftt.com.br) for Computer Engineering students.
+
+I love teaching programming for those who want to follow a career in IT.
+
 I'm from Brazil, São Paulo.
 
 Certifications:
@@ -11,7 +14,7 @@ Certifications:
 - GitHub
 - CDCP (Data Center)
 
-Some live coding at [videos](https://www.youtube.com/channel/UCrDTgnnQA7bh-Ns1VRfShxg) 
+Some live coding [videos](https://www.youtube.com/channel/UCrDTgnnQA7bh-Ns1VRfShxg) - I do not edit videos, just upload as is.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/danielscarvalho?style=social)](https://twitter.com/danielscarvalho)
 [![Linkedin: danielscarvalho](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielscarvalho/)](https://www.linkedin.com/in/danielscarvalho/)
@@ -46,9 +49,11 @@ These are some of the technologies and tools that I work with:
 
 ## ⚡ Reserch and Data Science
 
-I like to do reserch in computer science, Data Science and publish some papers...
+I like to do reserch in pure computer science, complex systems, artificial intelligence and data science, and publish some papers...
 
-- Wolfram Summer School 2007
-- Wolfram Summer School 2014
-- Wolfram Function Repository
-- Wolfram Demonstrations Project
+- [Wolfram Summer School 2007](https://education.wolfram.com/summer-school/alumni/2007/carvalho/)
+- [Wolfram Summer School 2011](https://education.wolfram.com/summer-school/alumni/2011/carvalho/)
+- [Wolfram Function Repository](https://resources.wolframcloud.com/FunctionRepository/search/?i=carvalho) - My Wolfram Langauge bublished functions
+- [Wolfram Demonstrations Project](https://demonstrations.wolfram.com/search.html?query=carvalho)
+
+I like to hack things too and do some electronics as a hobby.
