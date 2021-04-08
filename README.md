@@ -5,7 +5,7 @@ and teach Data Science at [Insper](www.insper.com.br) and programming at [Termom
 
 I love teaching programming for those who want to follow a career in IT.
 
-I'm from Brazil, São Paulo. I'm from Brazil, São Paulo, speak Portuguese, English and Spanish. I am a husband and father, I love to play LEGO and video games with my girls!
+I'm from Brazil, São Paulo, speak Portuguese, English and Spanish. I am a husband and father, I love to play LEGO and video games with my girls!
 
 Certifications:
 - Java
@@ -17,12 +17,18 @@ Certifications:
 Some live coding [videos](https://www.youtube.com/channel/UCrDTgnnQA7bh-Ns1VRfShxg) - I do not edit videos, just upload as is.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/danielscarvalho?style=social)](https://twitter.com/danielscarvalho)
+
 [![Linkedin: danielscarvalho](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielscarvalho/)](https://www.linkedin.com/in/danielscarvalho/)
+
 [![Youtube: DanielCarvalhoEng](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/DanielCarvalhoEng)](https://www.youtube.com/c/DanielCarvalhoEng)
 
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
+
+
+![Linux](https://img.shields.io/badge/-linux?style=flat-square&logo=linux)
+![Bash](https://img.shields.io/badge/-bash?style=flat-square&logo=bash)
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -32,6 +38,7 @@ These are some of the technologies and tools that I work with:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
