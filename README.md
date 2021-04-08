@@ -5,7 +5,7 @@ and teach Data Science at [Insper](www.insper.com.br) and programming at [Termom
 
 I love teaching programming for those who want to follow a career in IT.
 
-I'm from Brazil, São Paulo.
+I'm from Brazil, São Paulo. I'm from Brazil, São Paulo. I am a husband and father, I love to play LEGO and video games with my girls!
 
 Certifications:
 - Java
@@ -55,5 +55,7 @@ I like to do reserch in pure computer science, complex systems, artificial intel
 - [Wolfram Summer School 2011](https://education.wolfram.com/summer-school/alumni/2011/carvalho/)
 - [Wolfram Function Repository](https://resources.wolframcloud.com/FunctionRepository/search/?i=carvalho) - My Wolfram Langauge bublished functions
 - [Wolfram Demonstrations Project](https://demonstrations.wolfram.com/search.html?query=carvalho)
+- [Wolfram Certified Instructor](https://www.wolfram.com/wolfram-u/instructors/carvalho.html)
+- [Wolfram Tech Conference Brazil](https://www.wolfram.com/events/virtual-conference-br/2020/) - Organizing Wolfram conf in Brazil since 2003.
 
 I like to hack things too and do some electronics as a hobby.
