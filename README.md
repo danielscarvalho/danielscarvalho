@@ -1,4 +1,4 @@
-### Hello!
+### 🧑 Hello!
 
 I'm Daniel Carvalho, and I'm MSc in Computer Engineering work at [Wolfram](www.wolfram.com) and [Advisor](https://www.advisor.net.br), 
 and teach Data Science at [Insper](www.insper.com.br) and programming at [Termomecanica](http://ftt.com.br) for Computer Engineering students.
