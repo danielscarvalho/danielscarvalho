@@ -27,9 +27,8 @@ Some live coding [videos](https://www.youtube.com/channel/UCrDTgnnQA7bh-Ns1VRfSh
 These are some of the technologies and tools that I work with:
 
 
-![Linux](https://img.shields.io/badge/-linux?style=flat-square&logo=linux)
-![Bash](https://img.shields.io/badge/-bash?style=flat-square&logo=bash)
-
+![Linux](https://img.shields.io/badge/-linux?style=flat-square&logo=linux&label=Linux)
+![Bash](https://img.shields.io/badge/-bash?style=flat-square&logo=bash&label=Linux&sufix=Bash)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
