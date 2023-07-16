@@ -11,7 +11,7 @@ Certifications:
 - Java
 - Wolfram
 - Cambridge (English)
-- GitHub
+- GitHub Campus Advisor (Professor)
 - CDCP (Data Center)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/danielscarvalho?style=social)](https://twitter.com/danielscarvalho)
