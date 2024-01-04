@@ -1,6 +1,6 @@
 ### 🧑 Hello!
 
-I'm Daniel Carvalho, and I'm MSc in Computer Engineering work at [Wolfram](www.wolfram.com) and [Advisor](https://www.advisor.net.br), 
+I'm Daniel Carvalho, and I'm MSc in Computer Engineering work at [Wolfram](https://www.wolfram.com) and [Advisor](https://www.advisor.net.br), 
 and teach Data Science at [Insper](https://www.insper.edu.br/pos-graduacao/programas-avancados/data-science-e-decisao/?gclid=Cj0KCQjwsLWDBhCmARIsAPSL3_1EYDo0S9YTO3KO9I4gaWqVK7GzDPQGKYFVQC5aBc01VswkGEfChiIaAsCtEALw_wcB) and ML programming at  [ITS-Rio - Pós-graduação em Direito Digital](https://itsrio.org/pt/cursos/pos-graduacao/).
 
 <!-- <span style="text-decoration-style: dashed;"> [Termomecanica - Fundação Salvador Arena](http://ftt.com.br) </span> for Computer Engineering students and -->
