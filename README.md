@@ -7,7 +7,7 @@ and teach Data Science at [Insper](https://www.insper.edu.br/pos-graduacao/progr
 
 I love teaching programming for those wanting to pursue an IT career, developing AI, WEB, or mobile apps, and doing data analysis at notebook GUI.
 
-I'm from Brazil, São Paulo ☔, fluent in Portuguese, English, and Spanish. I am a husband and father, I love to swim 🏊, and play LEGO or video games with my girls!
+I'm from Brazil, São Paulo ☔, fluent in Portuguese, English, and Spanish. I am a husband and father, I love to swim 🏊, and play LEGO or video games 👾 with my girls 👩🏾‍🤝‍👩🏼!
 
 Certifications:
 - Java
