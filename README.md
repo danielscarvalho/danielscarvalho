@@ -1,11 +1,11 @@
 ### 🧑 Hello!
 
 I'm Daniel Carvalho, and I'm MSc in Computer Engineering work at [Wolfram](https://www.wolfram.com) and [Advisor](https://www.advisor.net.br), 
-and teach Data Science at [Insper](https://www.insper.edu.br/pos-graduacao/programas-avancados/data-science-e-decisao/?gclid=Cj0KCQjwsLWDBhCmARIsAPSL3_1EYDo0S9YTO3KO9I4gaWqVK7GzDPQGKYFVQC5aBc01VswkGEfChiIaAsCtEALw_wcB) and ML programming at  [ITS-Rio - Pós-graduação em Direito Digital](https://itsrio.org/pt/cursos/pos-graduacao/).
+and teach Data Science at [Insper](https://www.insper.edu.br/pos-graduacao/programas-avancados/data-science-e-decisao/), [FIAP](https://www.fiap.com.br) and ML programming at  [ITS-Rio - Pós-graduação em Direito Digital](https://itsrio.org/pt/cursos/pos-graduacao/).
 
 <!-- <span style="text-decoration-style: dashed;"> [Termomecanica - Fundação Salvador Arena](http://ftt.com.br) </span> for Computer Engineering students and -->
 
-I love teaching programming for those who want to follow a career in IT.
+I love teaching programming for those wanting to pursue an IT career, developing AI, WEB, or mobile apps, and doing data analysis at notebook GUI.
 
 I'm from Brazil, São Paulo ☔, speak Portuguese, English and Spanish. I am a husband and father, I love to play LEGO and video games with my girls!
 
