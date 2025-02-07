@@ -56,11 +56,11 @@ These are some of the technologies and tools that I work with:
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![BPMN](https://img.shields.io/badge/Software_Engineering-BPMN-blue)
-![BPMN](https://img.shields.io/badge/Software_Engineering-UML-blue)
-![BPMN](https://img.shields.io/badge/Software_Engineering-Design_Sprint-red)
-![BPMN](https://img.shields.io/badge/Software_Engineering-Project_Management-orange)
-![BPMN](https://img.shields.io/badge/Software_Engineering-System_Architecture-black)
+![BPMN](https://img.shields.io/badge/Software_Engineering-BPMN-purple)
+![UML](https://img.shields.io/badge/Software_Engineering-UML-blue)
+![Design Sprint](https://img.shields.io/badge/Software_Engineering-Design_Sprint-red)
+![Project Management](https://img.shields.io/badge/Software_Engineering-Project_Management-orange)
+![System Architecture](https://img.shields.io/badge/Software_Engineering-System_Architecture-black)
 
 ## 🎓 Reserch and Data Science
 
