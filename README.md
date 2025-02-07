@@ -58,7 +58,8 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![BPMN](https://img.shields.io/badge/Software_Engineering-BPMN-blue)
 ![BPMN](https://img.shields.io/badge/Software_Engineering-UML-blue)
-![BPMN](https://img.shields.io/badge/Software_Engineering-Modeling-blue)
+![BPMN](https://img.shields.io/badge/Software_Engineering-Design_Sprint-red)
+![BPMN](https://img.shields.io/badge/Software_Engineering-Project_Management-orange)
 
 ## 🎓 Reserch and Data Science
 
