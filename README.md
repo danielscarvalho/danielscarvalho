@@ -9,7 +9,7 @@ I love teaching programming for those wanting to pursue an IT career, developing
 
 I'm from Brazil, São Paulo ☔, talk in Portuguese, English, and Spanish. I am a husband and father, I love to swim 🏊, and play LEGO or video games 👾 with my girls 👩🏾‍🤝‍👩🏼!
 
-Preferred tools: Wolfram Language, Linux (Bash), Java, Python, SQL, JavaScript, HTML, CSS, C, C++, Full-Strack, Data Science, Git + GitHub
+Preferred tools: Wolfram Language, Linux (Bash), Java, Python, SQL, JavaScript, HTML, CSS, C, C++, Full-Strack, Data Science, Git + GitHub, Wiki
 
 Certifications:
 - Java
@@ -61,8 +61,9 @@ These are some of the technologies and tools that I work with:
 
 I like to do reserch in pure computer science, complex systems, artificial intelligence and data science, and publish some papers...
 
-![Cellular Automato](https://demonstrations.wolfram.com/ClusterCellularAutomata/img/popup_1.png)
-![Cellular Automato](https://demonstrations.wolfram.com/HistogramOfFlippingCellularAutomaton/img/popup_2.png)
+![Cellular Automata](https://www.wolframcloud.com/obj/resourcesystem/published/DemonstrationRepository/deployments/ClusterCellularAutomata/img/ClusterCellularAutomata_Snapshot-1.png)
+
+![Cellular Automata](https://www.wolframcloud.com/obj/resourcesystem/published/DemonstrationRepository/deployments/HistogramOfFlippingCellularAutomaton/img/HistogramOfFlippingCellularAutomaton_Snapshot-1.png)
 
 - [Wolfram Summer School 2007](https://education.wolfram.com/summer-school/alumni/2007/carvalho/)
 - [Wolfram Summer School 2011](https://education.wolfram.com/summer-school/alumni/2011/carvalho/)
