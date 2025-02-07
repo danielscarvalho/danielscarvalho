@@ -60,6 +60,7 @@ These are some of the technologies and tools that I work with:
 ![BPMN](https://img.shields.io/badge/Software_Engineering-UML-blue)
 ![BPMN](https://img.shields.io/badge/Software_Engineering-Design_Sprint-red)
 ![BPMN](https://img.shields.io/badge/Software_Engineering-Project_Management-orange)
+![BPMN](https://img.shields.io/badge/Software_Engineering-System_Architecture-black)
 
 ## 🎓 Reserch and Data Science
 
