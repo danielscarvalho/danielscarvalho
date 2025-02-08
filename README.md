@@ -1,16 +1,33 @@
 ### 🧑&#127995; Hello!
 
-I'm Daniel Carvalho, MSc in Computer Engineering work at [Wolfram](https://www.wolfram.com) and [Advisor](https://www.advisor.net.br), 
-and teach Data Science (Post-Graduation) at [Insper](https://www.insper.edu.br/pos-graduacao/programas-avancados/data-science-e-decisao/), and IA ML programming at  [ITS-Rio - Pós-graduação em Direito Digital](https://itsrio.org/pt/cursos/pos-graduacao/).
+# Daniel Carvalho
+
+## About Me
+- **Location:** São Paulo, Brazil ☔
+- **Languages:** Portuguese, English, Spanish
+- **Family:** Husband and Father 🏡
+- **Hobbies:** Swimming 🏊, LEGO, Books, Travel, Video Games 👾
+
+## Professional Background
+- **Education:** MSc in Computer Engineering
+- **Work:** 
+  - **Wolfram:** Business and Consultant
+  - **Insper:** Data Science Instructor (Post-Graduation)
+  - **ITS-Rio:** AI and ML Programming Instructor (Post-Graduation in Digital Law)
+  - **[Advisor](https://www.advisor.net.br)** Developer and Consultant
+  - Former: PwC, IBM, Ford, Oi/BrT (Telecom), Unilever...
+
+## What I Do
+I am passionate about:
+- **Teaching Programming:** Empowering individuals to start careers in IT and build software.
+- **AI Development:** Building intelligent systems that learn and adapt.
+- **Web & Mobile Development:** Creating responsive and user-friendly applications with databases.
+- **Data Analysis:** Utilizing notebook GUIs for insightful data exploration.
+
+## Tools
+Wolfram Language, Linux (Bash), Java, Python, SQL, JavaScript, HTML, CSS, C, C++, Full-Strack, Data Science, Git + GitHub, Wiki
 
 <!-- <span style="text-decoration-style: dashed;"> [Termomecanica - Fundação Salvador Arena](http://ftt.com.br) </span> for Computer Engineering students and -->
-
-I love teaching programming for those wanting to pursue an IT career, developing AI, WEB, or mobile apps, and doing data analysis at notebook GUI.
-
-I'm from Brazil, São Paulo ☔, talk in Portuguese, English, and Spanish. I am a husband and father, I love to swim 🏊, and play LEGO or video games 👾 with my girls 👩🏾‍🤝‍👩🏼!
-
-Preferred tools: Wolfram Language, Linux (Bash), Java, Python, SQL, JavaScript, HTML, CSS, C, C++, Full-Strack, Data Science, Git + GitHub, Wiki
-
 Certifications:
 - Java
 - Wolfram
