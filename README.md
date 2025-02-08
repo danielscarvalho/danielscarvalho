@@ -9,7 +9,7 @@
 - **Hobbies:** Swimming 🏊, LEGO 🧱, Books 📚, Travel ✈️, Video Games 👾
 - 🍺 ☕
 
-## Professional Background
+## 👔 Professional Background
 - **Education:** MSc in Computer Engineering
 - **Work:** 
   - **Wolfram Research:** Business and Consultant
