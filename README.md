@@ -7,6 +7,7 @@
 - **Languages:** Portuguese, English, Spanish
 - **Family:** Husband and Father 🏡
 - **Hobbies:** Swimming 🏊, LEGO, Books, Travel, Video Games 👾
+- 🍺 ☕
 
 ## Professional Background
 - **Education:** MSc in Computer Engineering
