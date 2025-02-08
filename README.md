@@ -11,21 +11,22 @@
 ## Professional Background
 - **Education:** MSc in Computer Engineering
 - **Work:** 
-  - **Wolfram:** Business and Consultant
+  - **Wolfram Research:** Business and Consultant
   - **Insper:** Data Science Instructor (Post-Graduation)
   - **ITS-Rio:** AI and ML Programming Instructor (Post-Graduation in Digital Law)
-  - **[Advisor](https://www.advisor.net.br)** Developer and Consultant
+  - **[Advisor](https://www.advisor.net.br):** Developer and Consultant
   - Former: PwC, IBM, Ford, Oi/BrT (Telecom), Unilever...
 
 ## What I Do
 I am passionate about:
-- **Teaching Programming:** Empowering individuals to start careers in IT and build software.
+- **Programming Lecturer:** Empowering individuals to start careers in IT and build software.
 - **AI Development:** Building intelligent systems that learn and adapt.
 - **Web & Mobile Development:** Creating responsive and user-friendly applications with databases.
 - **Data Analysis:** Utilizing notebook GUIs for insightful data exploration.
+- **Research:** AI and Complex Systems, [NKS](https://www.wolframscience.com/nks/) simple programs (computation with simple rules).
 
 ## Tools
-Wolfram Language, Linux (Bash), Java, Python, SQL, JavaScript, HTML, CSS, C, C++, Full-Strack, Data Science, Git + GitHub, Wiki
+Wolfram Language, Linux (Bash), Java, Python, SQL, JavaScript, HTML, CSS, C, C++, Full-Strack, Data Science, Git + GitHub, Wiki, Oracle
 
 <!-- <span style="text-decoration-style: dashed;"> [Termomecanica - Fundação Salvador Arena](http://ftt.com.br) </span> for Computer Engineering students and -->
 Certifications:
