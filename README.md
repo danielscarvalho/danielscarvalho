@@ -24,7 +24,7 @@ I am passionate about:
 - **AI Development:** Building intelligent systems that learn and adapt.
 - **Web & Mobile Development:** Creating responsive and user-friendly applications with databases.
 - **Data Analysis:** Utilizing notebook GUIs for insightful data exploration.
-- **Research:** AI and Complex Systems, [NKS](https://www.wolframscience.com/nks/) simple programs (computation with simple rules).
+- **Research:** AI and Complex Systems, [NKS](https://www.wolframscience.com/nks/) simple programs (computation with simple rules/models).
 
 ## Tools
 Wolfram Language, Linux (Bash), Java, Python, SQL, JavaScript, HTML, CSS, C, C++, Full-Strack, Data Science, Git + GitHub, Wiki, Oracle
