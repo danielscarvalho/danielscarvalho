@@ -12,8 +12,8 @@
 - **Education:** MSc in Computer Engineering
 - **Work:** 
   - **Wolfram Research:** Business and Consultant
-  - **Insper:** Data Science Instructor (Post-Graduation)
-  - **ITS-Rio:** AI and ML Programming Instructor (Post-Graduation in Digital Law)
+  - **Insper:** Data Science Professor (Post-Graduation)
+  - **ITS-Rio:** AI and ML Programming Professor (Post-Graduation in Digital Law)
   - **[Advisor](https://www.advisor.net.br):** Developer and Consultant
   - Former: PwC, IBM, Ford, Oi/BrT (Telecom), Unilever...
 
