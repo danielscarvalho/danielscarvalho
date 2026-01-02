@@ -17,6 +17,7 @@
   - **[Advisor](https://www.advisor.net.br):** Developer and Consultant
   - ~~**ITS-Rio:** AI and ML Programming Professor (Post-Graduation in Digital Law)~~
   - ~~**FIAP:** Data Science Professor for Software Engineering~~
+  - ~~**CEFSA:** Professor for Computer Engineering: Java, SQL, JavaScript, CSS, HTML, Compilers, Computer Theory~~
   - Former: PwC, IBM, Ford, Oi/BrT (Telecom), Unilever...
 
 ## 💻 What I Do
