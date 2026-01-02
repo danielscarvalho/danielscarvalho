@@ -22,13 +22,13 @@
 ## 💻 What I Do
 I am passionate about:
 - **Programming Lecturer:** Empowering individuals to start careers in IT and build software.
-- **AI Development:** Building intelligent systems that learn and adapt.
+- **AI Development:** Building intelligent systems that learn and adapt: IA, ML, LLMs.
 - **Web & Mobile Development:** Creating responsive and user-friendly applications with databases.
 - **Data Analysis:** Utilizing notebook GUIs for insightful data exploration.
 - **Research:** AI and Complex Systems, [NKS](https://www.wolframscience.com/nks/), simple programs (computation with simple rules/models).
 
 ## 🛠️ Tools
-Wolfram Language, Linux (Bash), Java, Python, SQL, JavaScript, HTML, CSS, C, C++, Full-Stack, Data Science, Git + GitHub, Wiki, Oracle
+Wolfram Language, Linux (Bash), Java, Python, SQL, Git & GitHub, JavaScript, HTML, CSS, C, C++, Full-Stack, Data Science, Git + GitHub, Wiki, Oracle
 
 <!-- <span style="text-decoration-style: dashed;"> [Termomecanica - Fundação Salvador Arena](http://ftt.com.br) </span> for Computer Engineering students and -->
 ## 📜 Certifications
