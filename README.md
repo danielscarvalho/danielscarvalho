@@ -14,9 +14,9 @@
 - **Work:** 
   - **Wolfram Research:** Business and Consultant
   - **Insper:** Data Science Professor (Post-Graduation)
-  - ~~ **ITS-Rio:** AI and ML Programming Professor (Post-Graduation in Digital Law) ~~
-  - ~~ **FIAP:** Data Science Professor for Software Engineering ~~
   - **[Advisor](https://www.advisor.net.br):** Developer and Consultant
+  - ~~**ITS-Rio:** AI and ML Programming Professor (Post-Graduation in Digital Law)~~
+  - ~~**FIAP:** Data Science Professor for Software Engineering~~
   - Former: PwC, IBM, Ford, Oi/BrT (Telecom), Unilever...
 
 ## 💻 What I Do
