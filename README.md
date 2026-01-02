@@ -14,7 +14,8 @@
 - **Work:** 
   - **Wolfram Research:** Business and Consultant
   - **Insper:** Data Science Professor (Post-Graduation)
-  - **ITS-Rio:** AI and ML Programming Professor (Post-Graduation in Digital Law)
+  - ~~ **ITS-Rio:** AI and ML Programming Professor (Post-Graduation in Digital Law) ~~
+  - ~~ **FIAP:** Data Science Professor for Software Engineering ~~
   - **[Advisor](https://www.advisor.net.br):** Developer and Consultant
   - Former: PwC, IBM, Ford, Oi/BrT (Telecom), Unilever...
 
@@ -24,10 +25,10 @@ I am passionate about:
 - **AI Development:** Building intelligent systems that learn and adapt.
 - **Web & Mobile Development:** Creating responsive and user-friendly applications with databases.
 - **Data Analysis:** Utilizing notebook GUIs for insightful data exploration.
-- **Research:** AI and Complex Systems, [NKS](https://www.wolframscience.com/nks/) simple programs (computation with simple rules/models).
+- **Research:** AI and Complex Systems, [NKS](https://www.wolframscience.com/nks/), simple programs (computation with simple rules/models).
 
 ## 🛠️ Tools
-Wolfram Language, Linux (Bash), Java, Python, SQL, JavaScript, HTML, CSS, C, C++, Full-Strack, Data Science, Git + GitHub, Wiki, Oracle
+Wolfram Language, Linux (Bash), Java, Python, SQL, JavaScript, HTML, CSS, C, C++, Full-Stack, Data Science, Git + GitHub, Wiki, Oracle
 
 <!-- <span style="text-decoration-style: dashed;"> [Termomecanica - Fundação Salvador Arena](http://ftt.com.br) </span> for Computer Engineering students and -->
 ## 📜 Certifications
